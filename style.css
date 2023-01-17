@@ -147,6 +147,7 @@ footer{
    
     #side-left{
         width: 25rem;
+        height: 100vh;
     }
 
     .side-web{
@@ -168,6 +169,7 @@ footer{
         width: 20rem;
         margin: 0 5rem 0 0;
         padding: 0;
+        height: 100vh;
     }
 
     .infos {
@@ -189,6 +191,18 @@ footer{
 }
 
 @media screen and (max-width: 800px){
+    #side-left{
+        width: 20rem;
+    }
+
+    main {
+        width: 18rem;
+        margin: 0 5rem 0 0;
+        padding: 0;
+    }
+}
+
+@media screen and (max-width: 700px){
     #side-left{
         width: 20rem;
     }
