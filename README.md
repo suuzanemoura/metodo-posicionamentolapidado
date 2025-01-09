@@ -2,12 +2,12 @@
 ![Preview](./imgs/Preview_MLP_WaitingList.PNG)
 
 ## **Introdução**  
-Landing Page criada para divulgar a lista de espera do lançamento da mentoria **Método Posicionamento Lapidado** por **Bárbara Lourenço** [@barbara.llourenco](https://www.instagram.com/barbara.llourenco).
+Landing Page criada para divulgar a lista de espera do lançamento da mentoria **Método Posicionamento Lapidado** por **Bárbara Lourenço**  <a href="https://www.instagram.com/barbara.llourenco" target="_blank" rel="noopener noreferrer">@barbara.llourenco</a>.
 
 
 ## **Link de Acesso**  
 
-- Acesse o deploy no Vercel: [Clique aqui](https://posicionamento-lapidado.vercel.app/)
+- <a href="https://posicionamento-lapidado.vercel.app/" target="_blank" rel="noopener noreferrer">Acesse o deploy no Vercel</a>
 
 
 ## **Sobre o Projeto**  
